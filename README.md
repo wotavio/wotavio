@@ -1,7 +1,6 @@
 ### Eai! Me chamo Otávio Dantas Weiand😁🤙
 - 🔭 Possuo certificado de Técnico em Informática para a Internet
-- 🌱 Estou atualmente cursando um Tecnólogo em
-  Análise e Desenvolvimento de Sistemas                              ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wotavio&layout=compact)
+- 🌱 Estou atualmente cursando um Tecnólogo em Análise e Desenvolvimento de Sistemas                 
 - 💬 Tenho 18 anos!
 
   
