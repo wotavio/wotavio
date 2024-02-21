@@ -2,10 +2,10 @@
 - 🔭 Possuo certificado de Técnico em Informática para a Internet
 - 🌱 Estou atualmente cursando um Tecnólogo em Análise e Desenvolvimento de Sistemas
 - 💬 Tenho 18 anos!
+<br></br>
   
-  
-  <div style="flex-basis: 48%;">
-    <h2>🔥 Skills 🔥</h2>
+  🔥 Skills 🔥
+  <div style="flex-basis: 48%; margin-top:-10vh;">
     <h3>Programming Languages</h3>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
