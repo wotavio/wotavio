@@ -2,6 +2,7 @@
 - 🔭 Possuo certificado de Técnico em Informática para a Internet
 - 🌱 Estou atualmente cursando um Tecnólogo em Análise e Desenvolvimento de Sistemas
 - 💬 Tenho 18 anos!
+  
   🔥 Skills 🔥
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
