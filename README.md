@@ -3,8 +3,7 @@
 - 🌱 Estou atualmente cursando um Tecnólogo em Análise e Desenvolvimento de Sistemas
 - 💬 Tenho 18 anos!
   
-  🔥 Skills 🔥
-<!-- Skills: Programming Languages -->
+🔥 Skills 🔥
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
