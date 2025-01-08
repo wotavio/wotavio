@@ -1,7 +1,7 @@
 ### Eai! Me chamo Otávio Dantas Weiand😁🤙
 - 🔭 Possuo certificado de Técnico em Informática para a Internet;
 - 🌱 Estou atualmente cursando o Tecnólogo em Análise e Desenvolvimento de Sistemas, pela UNISINOS;
-- 💬 Tenho 18 anos!
+- 💬 Tenho 19 anos!
 <br></br>
   
   🔥 Skills 🔥
